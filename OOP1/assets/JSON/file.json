@@ -1,0 +1,20 @@
+
+{
+    "studenti": [
+        {
+            "nome": "alice",
+            "cognome": "bob",
+            "cita": "milano",
+            "lingue":[
+                "italiano",
+                "inglese",
+                "frances"
+            ]
+        },
+        {
+            "nome": "achraf",
+            "cognome": "drths",
+            "cita": "roma"
+        }
+    ]
+}
